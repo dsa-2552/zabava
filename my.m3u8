@@ -417,6 +417,10 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="24ТВ🇸🇮",Сибирь 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 group-title="ТАТАРСТАН",Универ ТВ (Казань)
+http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b1328000_slru.m3u8
+#EXTINF:-1 group-title="ТАТАРСТАН",Хузур ТВ (Казань)
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="ТАТАРСТАН",Майдан (Казань)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
 #EXTINF:-1 group-title="ТАТАРСТАН",Шаян ТВ (Татарстан)
@@ -513,14 +517,12 @@ https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpRXL3jP/image-4.png" group-title="КИНОЗАЛЫ",Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=cVavn32017xNTlfy6hl-pw&e=2068506937&scheme=https
-#EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinopremiera.png" group-title="НАСТРОЙ КИНО",Кинопремьера HD
-http://dmi3y-tv6.ru/hls/CH_KINOPREMIERAHD.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/nashe-novoe-kino.png" group-title="НАСТРОЙ КИНО",Наше Новое Кино
 http://dmi3y-tv6.ru/hls/CH_NASHE_NOVOE_KINO.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinosvidanie.png" group-title="НАСТРОЙ КИНО",Киносвидание
 http://dmi3y-tv6.ru/hls/CH_KINOSVIDANIE.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinokomedia.png" group-title="НАСТРОЙ КИНО",КиноКомедия
-http://185.46.16.239:8000/Fox_HD
+http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/rodnoe-kino.png" group-title="НАСТРОЙ КИНО",Родное Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinosemia.png" group-title="НАСТРОЙ КИНО",Киносемья
@@ -781,3 +783,4 @@ https://5.restream.one/1827_1
 http://95.47.156.60:8000/play/201/index.m3u8
 #EXTINF:-1 group-title="RADIO RF🇸🇮",Радио Харьков Z
 http://node1.craftradio.ru:8000/215_55AE795B
+
