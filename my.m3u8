@@ -473,7 +473,7 @@ http://79.105.50.57:81/udp/239.4.10.141:2020
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/ruskomed.png" group-title="КИНО📺🎥",Русская Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/russky-roman.png" group-title="КИНО📺🎥",Русский Роман
-http://dmi3y-tv6.ru/hls/CH_RUSSKIY_ROMAN.m3u8
+http://178.68.222.118:81/play/a002
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/rusdetektiv.png" group-title="КИНО📺🎥",Русский детектив
 http://178.68.222.118:81/play/a003
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/rusbestseller.png" group-title="КИНО📺🎥",Русский бестселлер
@@ -506,6 +506,10 @@ http://185.46.16.239:8000/Cinema
 http://178.68.222.118:81/play/a021
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ghjtd2MJ/Start-AIR.png" group-title="КИНО📺🎥",START AIR
 http://178.68.222.118:81/play/a01n
+#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ua/star_family.png" group-title="КИНО📺🎥",Star Family
+http://178.68.222.118:81/play/a004
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyZ6yv9C/Star-cinema.png" group-title="КИНО📺🎥",Star Cinema
+http://178.68.222.118:81/play/a005
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N5wKc8s/image.png" group-title="КИНО📺🎥",КиноМан
 http://83.217.12.157:81/udp/239.1.1.236:1234
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1nn8Hnv/Kino-Sezon.png" group-title="КИНО📺🎥",КиноСезон
@@ -542,6 +546,8 @@ http://dmi3y-tv6.ru/hls/CH_KINOUZHAS.m3u8
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kino_xit.png" group-title="НАСТРОЙ КИНО",КиноХит
 http://dmi3y-tv6.ru/hls/CH_KINOHIT.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhtJXwJ/Indijskoe-kino-HD.png" group-title="НАСТРОЙ КИНО",Индийское кино
+http://178.68.222.118:81/play/a02k
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/vip-megahit.png" group-title="Viju+ТВ1000",Viju+ Megahit
 https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/vip-comedy.png" group-title="Viju+ТВ1000",Viju+ Comedy
@@ -639,9 +645,9 @@ http://83.217.12.157:81/udp/239.1.1.224:1234
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/discovery-channelHD.png" group-title="МУЖСКОЙ🎠",Discovery Channel HD
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/dikaya-rybalka-hd.png" group-title="МУЖСКОЙ🎠",Дикая рыбалка HD
-http://79.105.72.3:4022/udp/239.4.10.161:2020
+http://178.68.222.118:81/play/a01j
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/dikaya-oxota-hd.png" group-title="МУЖСКОЙ🎠",Дикая охота HD
-http://79.105.72.3:4022/udp/239.4.10.143:2020
+http://178.68.222.118:81/play/a01k
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xd3GWrMV/orig.png" group-title="ПРИРОДА🦁🫎",Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=IjZLkcpj2TbbBby8FXaA-A&e=2068506937&scheme=https
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGDqKrK3/Zoopark.png" group-title="ПРИРОДА🦁🫎",ZooПарк
@@ -680,6 +686,8 @@ https://s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 http://dmi3y-tv6.ru/hls/CH_HISTORY.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/7/h2.png" group-title="ПРИРОДА🦁🫎",H2 HD
 http://dmi3y-tv6.ru/hls/CH_HISTORY_2.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.online/epg/icon/nat-geo-wild-hd.png" group-title="ПРИРОДА🦁🫎",Nat Geo Wild HD
+http://178.68.222.118:81/play/a046
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/national-geographic-hd.png" group-title="ПРИРОДА🦁🫎",National Geographic HD
 https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА🎹🎸🪗",Retro
@@ -766,3 +774,4 @@ http://cdntv.online/high/7jic59vkp2tz/162.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsgX1NHd/LV.png" group-title="ДЕТСКИЙ🎉👫",Мультимания (Латвия)
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+
