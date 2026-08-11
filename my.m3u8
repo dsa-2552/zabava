@@ -355,7 +355,7 @@ http://pvr-spb-03.tlgx.ru:8987/CH_S03_STARCINEMA/index.m3u8
 http://83.217.12.157:81/udp/239.1.1.236:1234
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1nn8Hnv/Kino-Sezon.png" group-title="КИНО📺🎥",КиноСезон
 http://83.217.12.157:81/udp/239.1.1.171:1234
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nctGfYHY/zee-tv.png" group-title="КИНО📺🎥",Индия ТВ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nctGfYHY/zee-tv.png" group-title="КИНО📺🎥",Индия 
 http://pvr-spb-03.tlgx.ru:8987/CH_S03_ZEETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="КИНОЗАЛЫ🎞️",НТВ Сериалы.Первый отделᴴᴰ
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
