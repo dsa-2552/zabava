@@ -23,8 +23,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/zvezda.png" group-title="РФ_SD🇸🇮",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zbXRKHL/image.png" group-title="РФ_SD🇸🇮",Звезда плюс
-http://178.68.222.118:81/play/a00g
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/5kanal-ru.png" group-title="РФ_SD🇸🇮",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/tvcentr.png" group-title="РФ_SD🇸🇮",ТВЦ
@@ -105,10 +103,10 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMW7Pkj/HD.png" group-title="РФ_FHD🇸🇮",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/rentvHD.png" group-title="РФ_FHD🇸🇮",Рен ТВ HD
-https://tchaikovsky.af-stream.com:991/s/ulpjm4be/ren-tv-hd/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/tvcsd.png" group-title="РФ_FHD🇸🇮",ТВЦ HD
 https://tchaikovsky.af-stream.com:991/s/ulpjm4be/tvc-hd/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/rentvHD.png" group-title="РФ_FHD🇸🇮",Рен ТВ HD
+https://tchaikovsky.af-stream.com:991/s/ulpjm4be/ren-tv-hd/video.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/moskva24.png" group-title="РФ_FHD🇸🇮",Москва 24 HD
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W41mkfz3/HD.png" group-title="РФ_FHD🇸🇮",Санкт-Петербург
@@ -137,6 +135,8 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛ_РФ🇸🇮",Овертайм ТВ
 http://live.overtime26.ru/app/potok/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/504F9YPg/HD.png" group-title="РЕГИОНАЛ_РФ🇸🇮",Ростов-папа HD
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_FIRST_ROSTOV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLdBfkQ3/1Respublikanskij.png" group-title="РЕГИОНАЛ_РФ🇸🇮",1 Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJmYQpTQ/oplotdnr.png" group-title="РЕГИОНАЛ_РФ🇸🇮",Оплот 2
@@ -291,8 +291,6 @@ http://83.217.12.157:81/udp/239.1.1.105:1234
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lv4FdvH/patriot.png" group-title="КИНО📺🎥",Патриот
 http://pvr-spb-03.tlgx.ru:8987/CH_S03_PATRIOT/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/pobeda.png" group-title="КИНО📺🎥",Победа HD
-http://178.68.222.118:81/play/a00p
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/ntv-hit.png" group-title="КИНО📺🎥",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/ntv-serial.png" group-title="КИНО📺🎥",НТВ Сериал
@@ -337,6 +335,8 @@ http://dmitry-tv.ddns.net/hls/CH_TVXXI.m3u8
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/kinekoHD.png" group-title="КИНО📺🎥",КИНЕКО HD
 http://pvr-spb-03.tlgx.ru:8987/CH_S03_KINEKO/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/sapfir.png" group-title="КИНО📺🎥",САПФИР HD
+http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxZcLWHb/Cinema.png" group-title="КИНО📺🎥",Cinema
 http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2VYJ1XM/Start-World.png" group-title="КИНО📺🎥",START WORLD
@@ -384,15 +384,15 @@ http://pvr-spb-03.tlgx.ru:8987/CH_S03_RODNOE_KINO/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinosemia.png" group-title="НАСТРОЙ КИНО📹",Киносемья
 http://dmi3y-tv6.ru/hls/CH_KINOSEMIYA.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinoseria.png" group-title="НАСТРОЙ КИНО📹",Киносерия
-http://178.68.222.118:81/play/a014
+http://83.217.12.157:81/udp/239.1.1.81:1234
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinouzhas.png" group-title="НАСТРОЙ КИНО📹",КиноУжас
-http://dmi3y-tv6.ru/hls/CH_KINOUZHAS.m3u8
+http://83.217.12.157:81/udp/239.1.1.189:1234
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinomiks.png" group-title="НАСТРОЙ КИНО📹",Киномикс
-http://85.208.223.249:8888/play/a007
+http://185.46.16.239:8000/Fox_Life_HD
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kino_xit.png" group-title="НАСТРОЙ КИНО📹",КиноХит
 http://pvr-spb-03.tlgx.ru:8987/CH_S03_KINOHIT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhtJXwJ/Indijskoe-kino-HD.png" group-title="НАСТРОЙ КИНО📹",Индийское кино
-http://178.68.222.118:81/play/a02k
+http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/vip-megahit.png" group-title="Viju+ТВ1000🎥",Viju+ Megahit
 https://s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/vip-comedy.png" group-title="Viju+ТВ1000🎥",Viju+ Comedy
@@ -648,7 +648,7 @@ http://185.46.16.239:8000/Drayv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMqdRvYc/image.png" group-title="МУЖСКОЙ🎠",Авто Плюс
 http://dmi3y-tv6.ru/hls/CH_AVTO_PLUS.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzgq4X7X/T24.png" group-title="МУЖСКОЙ🎠",Т24
-http://dmi3y-tv6.ru/hls/CH_T24.m3u8
+http://83.217.12.157:81/udp/239.1.1.158:1234
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/ohotnikribolov.png" group-title="МУЖСКОЙ🎠",Охотник и рыболов HD
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=eF1Y8fOtW9Gry88IGsAm4A&e=2076773078&scheme=https
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/dikiy.png" group-title="МУЖСКОЙ🎠",Дикий
@@ -664,7 +664,7 @@ http://178.68.222.118:81/play/a01j
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/dikaya-oxota-hd.png" group-title="МУЖСКОЙ🎠",Дикая охота HD
 http://178.68.222.118:81/play/a01k
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/terraHD.png" group-title="ПРИРОДА🦁🫎",Terra HD
-http://hls.peers.tv/streaming/terra_hd/16/variable.m3u8
+https://s70378.cdn.ngenix.net/terra/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGDqKrK3/Zoopark.png" group-title="ПРИРОДА🦁🫎",ZooПарк
 https://s70378.cdn.ngenix.net/zoopark/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0mDbMXC/HD.png" group-title="ПРИРОДА🦁🫎",Живи Активно
@@ -683,18 +683,14 @@ http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
 http://dmi3y-tv.online/hls/CH_MOYA_PLANETA.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/v-mire-zhivotnyx.png" group-title="ПРИРОДА🦁🫎",В мире животных
 http://dmi3y-tv.online/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
-#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/teleputishestviya.png" group-title="ПРИРОДА🦁🫎",Телепутешествия
-http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/istoriya.png" group-title="ПРИРОДА🦁🫎",История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65X2J4Z2/Nauka-HD.png" group-title="ПРИРОДА🦁🫎",Наука 2.0 HD
 http://185.46.16.239:8000/Nauka_2.0
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/oceantv.png" group-title="ПРИРОДА🦁🫎",Ocean TV
 http://dmi3y-tv6.ru/hls/CH_OCEANTV.m3u8
-#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/viasat-nature-history-hd.png" group-title="ПРИРОДА🦁🫎",viju+ planet HD
-http://ottlinks.club/hls/v6rf4syijn/375.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/viasatexplore.ru.png" group-title="ПРИРОДА🦁🫎",viju Explore HD
-http://dmi3y-tv.online/hls/CH_VIASAT_EXPLOREHD.m3u8
+http://pvr-spb-03.tlgx.ru:8987/CH_S03_VIASAT_EXPLORE/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/viasathistory.ru.png" group-title="ПРИРОДА🦁🫎",viju History HD
 https://s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/viasatnature.ru.png" group-title="ПРИРОДА🦁🫎",viju Nature HD
@@ -703,12 +699,8 @@ https://s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 http://dmi3y-tv6.ru/hls/CH_HISTORY.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/7/h2.png" group-title="ПРИРОДА🦁🫎",H2 HD
 http://dmi3y-tv6.ru/hls/CH_HISTORY_2.m3u8
-#EXTINF:-1 tvg-logo="http://iptv.online/epg/icon/nat-geo-wild-hd.png" group-title="ПРИРОДА🦁🫎",Nat Geo Wild HD
-http://178.68.222.118:81/play/a046
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/national-geographic-hd.png" group-title="ПРИРОДА🦁🫎",National Geographic HD
 https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/animal-planetHD.png" group-title="ПРИРОДА🦁🫎",Animal Planet HD
-http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА🎹🎸🪗",Retro
 http://dmi3y-tv.online/hls/CH_RETROTVHD.m3u8
 #EXTINF:-1 group-title="МУЗЫКА🎹🎸🪗",DanceHits80
