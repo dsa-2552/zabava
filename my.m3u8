@@ -1,6 +1,5 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTQJNy7W/image.png" group-title="РФ_SD🇸🇮",Новороссия ТВ
-http://83.217.12.157:81/udp/239.1.1.173:1234
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/pervyj.png" group-title="РФ_SD🇸🇮",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/rossia1.png" group-title="РФ_SD🇸🇮",Россия 1
@@ -19,8 +18,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 https://s70378.cdn.ngenix.net/izvestiya/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/ntv-white.png" group-title="РФ_SD🇸🇮",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/ntvmir.png" group-title="РФ_SD🇸🇮",НТВ-Мир
-https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/zvezda.png" group-title="РФ_SD🇸🇮",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/5kanal-ru.png" group-title="РФ_SD🇸🇮",Пятый канал
@@ -29,8 +26,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/rentv.png" group-title="РФ_SD🇸🇮",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfgRNg7d/Tvoe-TVHD.png" group-title="РФ_SD🇸🇮",Твое ТВ HD
-http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFtbtbpZ/moskva-doverie.png" group-title="РФ_SD🇸🇮",Доверие
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/moskva24.png" group-title="РФ_SD🇸🇮",Москва 24
@@ -75,8 +70,6 @@ http://31.148.48.15/Soyuz/index.m3u8
 http://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNL7f81R/rutube-tv.png" group-title="РФ_FHD🇸🇮",RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=BB38oulqX9y3TSbPkK6_Kw&e=2068506930&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3PNSwy/solovjinypomiot.png" group-title="РФ_FHD🇸🇮",Соловьев.Live HD
-http://dmi3y-tv6.ru/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png" group-title="РФ_FHD🇸🇮",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=LulbFYkOPljnUIut8XkmDw&e=2081508525&scheme=https
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/rossia-hd.png" group-title="РФ_FHD🇸🇮",Россия 1 HD
@@ -751,8 +744,8 @@ http://cdntv.online/high/7jic59vkp2tz/2188.m3u8
 http://dmi3y-tv6.ru/hls/CH_DETSKIY_MIR.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrN5jJRg/image.png" group-title="ДЕТСКИЙ🎉👫",Мультиландия
 http://176.118.197.101/Multilandiya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c6yRvSZQ/image.png" group-title="ДЕТСКИЙ🎉👫",Супергерои
-http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N5wKc8s/image.png" group-title="ДЕТСКИЙ🎉👫",Киносат
+http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss1HnYhq/image.png" group-title="ДЕТСКИЙ🎉👫",В гостях у сказки
 http://cdntv.online/high/7jic59vkp2tz/484.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/disney_channel.png" group-title="ДЕТСКИЙ🎉👫",Cолнце
