@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/pervyj.png" group-title="РФ_SD🇸🇮",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -381,7 +380,7 @@ http://83.217.12.157:81/udp/239.1.1.81:1234
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinouzhas.png" group-title="НАСТРОЙ КИНО📹",КиноУжас
 http://83.217.12.157:81/udp/239.1.1.189:1234
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kinomiks.png" group-title="НАСТРОЙ КИНО📹",Киномикс
-http://185.46.16.239:8000/Fox_Life_HD
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/kino_xit.png" group-title="НАСТРОЙ КИНО📹",КиноХит
 http://pvr-spb-03.tlgx.ru:8987/CH_S03_KINOHIT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhtJXwJ/Indijskoe-kino-HD.png" group-title="НАСТРОЙ КИНО📹",Индийское кино
@@ -398,6 +397,8 @@ https://s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 http://dmi3y-tv6.ru/hls/CH_TV1000.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/tv1000action.png" group-title="Viju+ТВ1000🎥",viju TV1000 Action
 http://dmi3y-tv6.ru/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKBYFfLB/1000.png" group-title="Viju+ТВ1000🎥",viju TV1000 Новелла HD
+https://s81169.cdn.ngenix.net/mdrm/CH_VIJUTV1000NOVELLAHD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/tv1000ruskino.png" group-title="Viju+ТВ1000🎥",viju TV1000 Русское кино
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy-pl1.png" group-title="ФЕДЕРАЛЬНЫЕ + 🇸🇮",Первый канал (+1)
@@ -698,6 +699,8 @@ https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
 http://dmi3y-tv.online/hls/CH_RETROTVHD.m3u8
 #EXTINF:-1 group-title="МУЗЫКА🎹🎸🪗",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBMnnX6/MIXM-TV-HD.png" group-title="МУЗЫКА🎹🎸🪗",Mixm ТВ
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=ph-tAWxzbRZ40QA5mP-Yew&e=2073777460&scheme=https
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/zara.png" group-title="МУЗЫКА🎹🎸🪗",Жара
 http://178.68.222.118:81/play/a056
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYF7YNb/RuTVHD.png" group-title="МУЗЫКА🎹🎸🪗",RU.TV HD
