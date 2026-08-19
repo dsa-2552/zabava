@@ -70,7 +70,7 @@ http://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNL7f81R/rutube-tv.png" group-title="РФ_FHD🇸🇮",RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=BB38oulqX9y3TSbPkK6_Kw&e=2068506930&scheme=https
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/pervyj-hd.png" group-title="РФ_FHD🇸🇮",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=LulbFYkOPljnUIut8XkmDw&e=2081508525&scheme=https
+https://river-6-602.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/rFqV9xkhnJ-AcP9vyKOInQ/1787771805/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/rossia-hd.png" group-title="РФ_FHD🇸🇮",Россия 1 HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NKMC33C/rossia24.png" group-title="РФ_FHD🇸🇮",Россия 24 HD
