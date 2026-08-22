@@ -682,7 +682,7 @@ https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА🎹🎸🪗",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА🎹🎸🪗",RU.TV
-http://77.232.131.211/RUTV/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_RUTV.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/muztv.png" group-title="МУЗЫКА🎹🎸🪗",МУЗ ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfzvG30r/Bridge-TV.png" group-title="МУЗЫКА🎹🎸🪗",BRIDGE TV
