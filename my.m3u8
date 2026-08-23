@@ -487,18 +487,14 @@ https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/v
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/4a9f905a0262c1b0d656998eaa8d8414.png" group-title="ГУБЕРНИЯ🇸🇮",Губерния ТВ (Хабаровск)
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJJdVZNc/krym24.png" group-title="24ТВ🇸🇮",Крым 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHNBbc3C/simfer24.png" group-title="24ТВ🇸🇮",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs4nhhyY/legendarny24.png" group-title="24ТВ🇸🇮",Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKVKpmtB/Evpotoria-24.png" group-title="24ТВ🇸🇮",Евпатория 24
+http://195.26.83.96:7029/play/a009
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/edcc6fb168f333d94cfe5a0a860ed3e0.png" group-title="24ТВ🇸🇮",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="24ТВ🇸🇮",Волгоград 24
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryQS2YN6/24.png" group-title="24ТВ🇸🇮",Луганск 24
-https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/0b42c01475895ed776bbe1ddd9a94da9.png" group-title="24ТВ🇸🇮",ДОН 24
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zn1TDPv/24-HD.png" group-title="24ТВ🇸🇮",Сочи 24
@@ -527,12 +523,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz9NwHnV/Zapad-24.png" group-title="24ТВ🇸🇮",ЗАПАД 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL8kGqS3/arktika-24.png" group-title="24ТВ🇸🇮",Арктика 24 HD
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/d74109d952d96f7679ee1ede870a0314.png" group-title="24ТВ🇸🇮",Астрахань 24 HD
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/grbWYCBb/Tuapse-24.png" group-title="24ТВ🇸🇮",Туапсе 24
-http://185.185.69.62:8084/hls/tuapse24.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/296ef9db821a57b0830166952a7def3b.png" group-title="24ТВ🇸🇮",БСТ 24 HD
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL0MpDy8/Len-TV-24.png" group-title="24ТВ🇸🇮",Лен ТВ 24 HD
@@ -701,8 +693,6 @@ http://77.232.131.211/O2TV/index.m3u8
 http://catchup.videoline.ru/shanson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSCpRdcW/Viva-TVRussia.png" group-title="МУЗЫКА🎹🎸🪗",VIVA RU HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
-#EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/muzyka-pervogo.png" group-title="МУЗЫКА🎹🎸🪗",Музыка Первого
-http://185.46.16.239:8000/Muzyka_Pervogo
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/1hdmuz.png" group-title="МУЗЫКА🎹🎸🪗",1HD Music Television
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЙ🎉👫",Чип и Дейл
@@ -737,4 +727,3 @@ http://cdntv.online/high/7jic59vkp2tz/2191.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/ru/stskids.png" group-title="ДЕТСКИЙ🎉👫",СТС Kids HD
 http://cdntv.online/high/7jic59vkp2tz/162.m3u8
-
