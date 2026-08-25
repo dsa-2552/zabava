@@ -487,10 +487,14 @@ https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/v
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/4a9f905a0262c1b0d656998eaa8d8414.png" group-title="ГУБЕРНИЯ🇸🇮",Губерния ТВ (Хабаровск)
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJJdVZNc/krym24.png" group-title="24ТВ🇸🇮",Крым 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHNBbc3C/simfer24.png" group-title="24ТВ🇸🇮",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKVKpmtB/Evpotoria-24.png" group-title="24ТВ🇸🇮",Евпатория 24
-http://195.26.83.96:7029/play/a009
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs4nhhyY/legendarny24.png" group-title="24ТВ🇸🇮",Легендарный 24
+http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/edcc6fb168f333d94cfe5a0a860ed3e0.png" group-title="24ТВ🇸🇮",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="24ТВ🇸🇮",Волгоград 24
@@ -519,6 +523,8 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8?version=
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ural24.png" group-title="24ТВ🇸🇮",Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 group-title="24ТВ🇸🇮",ТВК 24 HD (Красноярск)
+http://a0925677.xsph.ru/hls/zabava/region/KRSK/CH_TVK24HD.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="24ТВ🇸🇮",Липецк 24 HD
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz9NwHnV/Zapad-24.png" group-title="24ТВ🇸🇮",ЗАПАД 24
@@ -597,6 +603,8 @@ http://185.46.16.239:8000/Match_Nash_Sport
 http://pvr-spb-03.tlgx.ru:8987/CH_S03_MATCHPREMIER/index.m3u8
 #EXTINF:-1 tvg-logo="https://e.radikal.host/2024/07/08/STARTHD.png" group-title="СПОРТ💪⚽",Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/4/start-triumfHD.png" group-title="СПОРТ💪⚽",Старт Триумф HD
+http://a0925677.xsph.ru/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 group-title="СПОРТ💪⚽",EUROSPORT 1 HD
 http://dmi3y-tv6.ru/hls/CH_EUROSPORT1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsC1XXz8/tvoetv-humor.png" group-title="ЮМОР😂🤣",Твоё ТВ - Юмор
