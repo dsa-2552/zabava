@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTQJNy7W/image.png" group-title="РФ_SD🇸🇮",Новороссия ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/pervyj.png" group-title="РФ_SD🇸🇮",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/rossia1.png" group-title="РФ_SD🇸🇮",Россия 1
@@ -63,6 +65,8 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/souz.png" group-title="РФ_SD🇸🇮",Союз
 http://31.148.48.15/Soyuz/index.m3u8
+#EXTINF:-1 group-title="РФ_SD🇸🇮",СТС-Мир
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/133mgZbL/News-Front.png" group-title="РФ_FHD🇸🇮",News Front TV
 http://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNL7f81R/rutube-tv.png" group-title="РФ_FHD🇸🇮",RUTUBE TV
@@ -85,6 +89,8 @@ https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.ipstr.im/picons/upl/360news.png" group-title="РФ_FHD🇸🇮",360 Новости
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 group-title="РФ_FHD🇸🇮",Че HD
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NGHfPm6r/Izvestia-HD.png" group-title="РФ_FHD🇸🇮",Известия HD
 https://river-6-602.rtbcdn.ru/stream/genetta-407.ntv.rutube.ru/gAQK3IMTpdZss6SGCf9ZZg/1787772447/3c47861a8b4b51639e41be092053b966/720p_stream.m3u8
 #EXTINF:-1 tvg-logo="http://static.ipstr.im/picons/ru/ntvhd.png" group-title="РФ_FHD🇸🇮",НТВ HD
@@ -487,14 +493,6 @@ https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/v
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/4a9f905a0262c1b0d656998eaa8d8414.png" group-title="ГУБЕРНИЯ🇸🇮",Губерния ТВ (Хабаровск)
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJJdVZNc/krym24.png" group-title="24ТВ🇸🇮",Крым 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHNBbc3C/simfer24.png" group-title="24ТВ🇸🇮",Симферополь 24
-https://simf.1tvcrimea.ru/simferopol24sd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKVKpmtB/Evpotoria-24.png" group-title="24ТВ🇸🇮",Евпатория 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs4nhhyY/legendarny24.png" group-title="24ТВ🇸🇮",Легендарный 24
-http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/edcc6fb168f333d94cfe5a0a860ed3e0.png" group-title="24ТВ🇸🇮",Восток 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="24ТВ🇸🇮",Волгоград 24
@@ -523,8 +521,6 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8?version=
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ural24.png" group-title="24ТВ🇸🇮",Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 group-title="24ТВ🇸🇮",ТВК 24 HD (Красноярск)
-http://a0925677.xsph.ru/hls/zabava/region/KRSK/CH_TVK24HD.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="24ТВ🇸🇮",Липецк 24 HD
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz9NwHnV/Zapad-24.png" group-title="24ТВ🇸🇮",ЗАПАД 24
